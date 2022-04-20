@@ -1,0 +1,4 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["**/node_modules", "**/build", "**/dist", "**/*.md", "**/rollup.config.js", "**/*.test.ts", "**/*.stories.tsx"]
+}

@@ -1,0 +1,9 @@
+.remirror-floating-popover {
+  z-index: 1000;
+}
+.remirror-theme {
+  --rmr-color-primary: #da2f24;
+  --rmr-color-active-primary: #aa1e17;
+  --rmr-color-hover-primary: #aa1e17;
+  --rmr-color-outline: #000000;
+}
